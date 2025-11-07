@@ -2,7 +2,7 @@
 
 
 https://github.com/user-attachments/assets/637f5f81-7ef6-4920-9c21-011dc2d5561b
- React + Vite
+
 ### URBAN COMMUNITY DIGIAL SOLUTIONS
 # Background 
 In our urban communities, many people have small but valuable skills (electrician, 
@@ -58,6 +58,7 @@ o Analytics dashboard (total users, active bookings, revenue, etc.).
 • Profile Verification Badge: Verified providers shown with a badge for trust. 
 • Multilingual Support: English + local languages. 
 • Dark Mode UI Option. 
+ React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
