@@ -1,9 +1,8 @@
 
 
- React + Vite
-
 
 https://github.com/user-attachments/assets/637f5f81-7ef6-4920-9c21-011dc2d5561b
+ React + Vite
 ### URBAN COMMUNITY DIGIAL SOLUTIONS
 # Background 
 In our urban communities, many people have small but valuable skills (electrician, 
